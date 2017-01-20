@@ -1,3 +1,6 @@
+# grilled-cheese-t-soup
+Rails app to return android library versions via slack
+
 # README
 
 This README would normally document whatever steps are necessary to get the
